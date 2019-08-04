@@ -23,7 +23,7 @@ layout: default
 		<div class="post-meta">
 			<ul class="post-categories">
 				{%- for tag in post.categories -%}
-				<li>{{ tag }}</li>
+				<li>{{ tag | escape }}</li>
 				{%- endfor -%}
 			</ul>
 			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
@@ -36,9 +36,5 @@ layout: default
 	</li>
 	{%- endfor -%}
 </ul>
-
- <p class="feed-subscribe"><svg class="svg-icon orange">
-		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-	</svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
-	{%- endif -%}
+{%- endif -%}
 
