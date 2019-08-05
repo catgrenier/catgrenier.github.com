@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Future Me Hates Me* by The Beths
+title: "*Future Me Hates Me* by The Beths"
 date: 2019-06-30 21:03:36 +0530
 categories: music review indie
 ---
