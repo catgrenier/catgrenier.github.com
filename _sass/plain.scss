@@ -35,6 +35,12 @@ a {
 
 h2 {
 	margin: 0.7em 0;
+	a {
+		text-decoration: none;
+		&:focus, &:hover {
+			text-decoration: underline;
+		}
+	}
 }
 main {
 	margin: 0 90px;
@@ -169,7 +175,6 @@ main {
 	line-height: 1.9em;
 	a {
 		color: $linkColor;
-		text-decoration: none;
 		transition: border-bottom 0.4s;
 		&:hover {
 			border-bottom: 0.5px solid $linkColor;
