@@ -4,6 +4,9 @@ title: "*Future Me Hates Me* by The Beths"
 date: 2019-06-30 21:03:36 +0530
 categories: music review indie
 ---
+
+<iframe class="songlink" src="https://embed.song.link/?theme=dark&url=https://open.spotify.com/album/4xG41eVnTuDK6uMmcksQ9B"></iframe>
+
 In August 2018 [The Beths](https://www.instagram.com/lizstokedstokes/) released their breakout album entitled [*Future Me Hates Me*](https://open.spotify.com/album/4xG41eVnTuDK6uMmcksQ9B). It’s common theme is the uneasiness that comes with being a young adult. 
 
 The first song on the album, *Great No One*, sets this tone with lines like “[I’m] Just a broken bulb Flickering with doubt” and “Always caught in between.” This song, as well as the rest of the album, heavily features power chords and quick bass lines to match the upbeat percussion. This gives the entire album a rushed feeling. 

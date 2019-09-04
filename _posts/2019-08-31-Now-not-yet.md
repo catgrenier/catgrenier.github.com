@@ -4,6 +4,9 @@ title:  "*Now, Not Yet* by half•alive"
 date:   2019-08-31 21:03:36 +0530
 categories: music review indie
 ---
+
+<iframe class="songlink" src="https://embed.song.link/?theme=dark&url=https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"></iframe>
+
 On August 9th of 2019, [*Now, Not Yet*](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) became the first album to be released by the indie pop band [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k). The album consists of 12 tracks in total, one of which is a 30 second interlude that is purely spoken.
 
 *Maybe*, the third track on the record, is about the changing of a point of view and how we have the ability to switch perspectives. One of the most interesting parts of me is the synth part at the end of the song. It almost sounds like a telephone ringing. The Band intended for just that and wanted to insert an interlude to act as this phone call. The interlude is only one half of said phone conversation where you as the listener are left to guess that the other person is saying. The audio is from  a voice message that the band’s choreographer had with a friend and the band said in an interview with Rock Sound that it was “better than [they] could have ever written”.
