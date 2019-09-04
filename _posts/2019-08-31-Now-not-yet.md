@@ -3,9 +3,8 @@ layout: post
 title:  "*Now, Not Yet* by half•alive"
 date:   2019-08-31 21:03:36 +0530
 categories: music review indie
+album: 2KSWrd22LGc0Hmqs2Z5i7z
 ---
-
-<iframe class="songlink" src="https://embed.song.link/?theme=dark&url=https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"></iframe>
 
 On August 9th of 2019, [*Now, Not Yet*](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) became the first album to be released by the indie pop band [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k). The album consists of 12 tracks in total, one of which is a 30 second interlude that is purely spoken.
 

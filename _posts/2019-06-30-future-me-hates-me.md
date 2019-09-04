@@ -3,9 +3,8 @@ layout: post
 title: "*Future Me Hates Me* by The Beths"
 date: 2019-06-30 21:03:36 +0530
 categories: music review indie
+album: 4xG41eVnTuDK6uMmcksQ9B
 ---
-
-<iframe class="songlink" src="https://embed.song.link/?theme=dark&url=https://open.spotify.com/album/4xG41eVnTuDK6uMmcksQ9B"></iframe>
 
 In August 2018 [The Beths](https://www.instagram.com/lizstokedstokes/) released their breakout album entitled [*Future Me Hates Me*](https://open.spotify.com/album/4xG41eVnTuDK6uMmcksQ9B). It’s common theme is the uneasiness that comes with being a young adult. 
 
