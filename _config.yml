@@ -14,6 +14,7 @@ plainwhite:
   tagline: Sound + Music Dork
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
+  analytics_id: UA-147086109-1
 
   # generate social links in footer
   social_links:
