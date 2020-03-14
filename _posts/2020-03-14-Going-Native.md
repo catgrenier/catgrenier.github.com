@@ -3,7 +3,7 @@ layout: post
 title:  "*Going Native* by Summer Salt"
 date:   2020-03-14 10:36:36 +0530
 categories: music review playlist
-album: 75dK5iQR9Y2v8UqMet9lRw?highlight=spotify:track:0vbwHDmP0pCZj62FHZuHro
+album: 75dK5iQR9Y2v8UqMet9lRw
 ---
 
 The majority of my playlists are separated by periods of time and when I listened to the music within them. When I find myself drifting from the music in my current playlist or becoming bored with it I make a new one. However I do have a few playlists that are for specific moods that I’m feeling. 
