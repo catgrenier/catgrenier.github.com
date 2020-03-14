@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "*Going Native* by Summer Salt"
+date:   2020-03-14 12:03:36 +0530
+categories: music review playlist
+album: 0vbwHDmP0pCZj62FHZuHro
+---
+
+The majority of my playlists are separated by periods of time and when I listened to the music within them. When I find myself drifting from the music in my current playlist or becoming bored with it I make a new one. However I do have a few playlists that are for specific moods that I’m feeling. 
+
+I have a playlist titled [“I miss your”](https://open.spotify.com/playlist/1rrJRC9qC5t7YPIcAjd7Dp) and it is paired with my playlist called [“smile”](https://open.spotify.com/playlist/15CVehcQFJTyKOacaIagrX). The latter playlist is happy songs that I can sing along with and the other is my playlist for when I’m down. These playlists have a very different vibe to them. My happy playlist consists mostly of my favorite bands like [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) or [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx). Songs that are generally upbeat and that I can sing along with and not have to think about much. Whereas my sad playlist is much more diverse with songs from musicians I enjoy Like [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) or [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) but who have much more mellow music. With all of the differences between these two playlists I find it interesting that the one thing they have in common is the song [*Going Native*](https://open.spotify.com/track/0vbwHDmP0pCZj62FHZuHro) by Summer Salt. 
+
+Summer Salt describes their music as “the perfect soundtrack for chillaxin’ by the pool.” And after hearing that analysis I can hear within the guitar and drum part, a sort of beach-y west coast sound. But something about the vocals and the lyrics seems so somber to me. And I’m not entirely wrong here despite what the cheery feeling of the music may lead you to believe. The lyrics are about someone who is unhappy in their current way of living and makes the decision to go get what they want. But in the process, they miss out on being with their family and the good parts of their “past” life. So there is a sort of bitter sweet message within the lyrics that, when i’m not thinking about them, I can ignore. However, when I’m feeling more down and introspective I pay more attention to the lyrics
+
+The song, without a doubt, earned its spot on my happy playlist due to when I discovered it. I found it in the middle of building my [“New years 2019”](https://open.spotify.com/playlist/14mQ37iLu84XdIytBoBP6s) playlist; between some of my favorite songs off of [*Future me hates me*](https://open.spotify.com/album/4xG41eVnTuDK6uMmcksQ9B) by the Beths (you can check out the review I did on that album [*here*](https://catgrenier.com/music/review/indie/2019/06/30/future-me-hates-me.html)) and a collection of [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) songs that I hadn’t heard in years. Because I was listening to all of those songs that I loved so much I also happened to hear Going Native a lot as well. But it’s lyrics really speak to me when I’m not in the best spirits.
+
+I'd love to reccomend some similar songs but due to its unique melancholic feeling I strugle to find similar songs. Do you have any songs that give you unexplainable feelings? I'd love to hear about them on my [instagram](https://www.instagram.com/catherine.wav/)!
